@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aef932a6-f74a-4b48-ada8-f8e32ce12b82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/scalaApplication-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/scalaApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/1Values.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/2DataTypes.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/3Expressions.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/4Conditional.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/5ConditionalExpressions.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/5ProgrammingConstructs.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/6Functions.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ArrayFunctions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Arrays.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Exceptions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/HashSetFunctions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/HashSets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/HelloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/HelloWorld2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListFunctions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Lists.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MultilineStrings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Numbers.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Operators.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SetFunctions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Sets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Strings1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserInput.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Variables1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/logicalOperators.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/stringInterpolations.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/stringsFunctions.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scalaApplication" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/scala/Exceptions.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/logicalOperators.scala" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Dc68eBFL7X9hKPs1OAQ4iToLqG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.HashSetFunctions">
+    <configuration name="ArrayFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayFunctions" />
+      <module name="scalaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HashSetFunctions" />
+      <module name="scalaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSets" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HashSets" />
+      <module name="scalaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SetFunctions" />
+      <module name="scalaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sets" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Sets" />
+      <module name="scalaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashSetFunctions" />
+        <item itemvalue="Application.SetFunctions" />
+        <item itemvalue="Application.HashSets" />
+        <item itemvalue="Application.Sets" />
+        <item itemvalue="Application.ArrayFunctions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aef932a6-f74a-4b48-ada8-f8e32ce12b82" name="Changes" comment="" />
+      <created>1660985869859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660985869859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
